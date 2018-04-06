@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 5, 2018
 
 ### Student Name:  
-(First and Last Name)
+Teonna Glispy
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
@@ -17,7 +17,7 @@ Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to create a header color and add a hover color to the header color.
+2. I learned to add different JQuery methods to add hover options.
+3. With the extra credit portion, I learned to add my own personal JQuery and change the picture to my webpage.
 
